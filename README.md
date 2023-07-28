@@ -1,1 +1,1 @@
-# parallel-words-counter
+# parallel-words-counter written in Go and C++
